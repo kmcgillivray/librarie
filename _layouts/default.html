@@ -8,7 +8,7 @@
   <body>
   
   {% for page in site.pages %}
-    <a href="{{ page.url }}">{{ page.title }}</a>
+    <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
   {% endfor %}
 
       {{ content }}
