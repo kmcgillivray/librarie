@@ -1,6 +1,3 @@
-# Site settings
 title: "Kevin's Library"
-
-# Build settings
 markdown: kramdown
 permalink: pretty

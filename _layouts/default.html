@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="UTF-8">
     <title>{{ site.title }}</title>
-    <link rel="stylesheet" href="{{ site.baseurl }}css/main.css">
   </head>
   
-  <body> 
-    
-    {{ content }}
+  <body>
+  
+  {% for page in site.pages %}
+    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+  {% endfor %}
 
+      {{ content }}
   </body>
 </html>
