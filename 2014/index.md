@@ -10,3 +10,4 @@ title: 2014
 * Zen Mind, Beginner’s Mind – Shunryu Suzuki
 * Work –&nbsp;Thich Nhat Hanh
 * Steve Jobs – Walter Isaacson
+* Rework – Jason Fried, David Heinemeier Hansson
