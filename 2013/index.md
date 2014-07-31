@@ -11,7 +11,7 @@ title: 2013
 * Do the Work! – Steven Pressfield
 * The Artist's Way – Julia Cameron
 * Life of Pi – Yann Martel
-* Neither Here Nore There – Bill Bryson
+* Neither Here Nor There – Bill Bryson
 * Radio: An Illustrated Guide – Ira Glass, Jessica Abel
 * Steal Like an Artist – Austin Kleon
 * Catching Fire – Suzanne Collins
