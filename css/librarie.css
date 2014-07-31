@@ -1,0 +1,26 @@
+/* Direct copy from main.css of kmcgillivray.github.io */
+html {
+	font-size: 16px;
+}
+@media (min-width:768px) {
+	html {
+		font-size: 20px;
+	}
+}
+body {
+	font-size: 1rem;
+	line-height: 1.4;
+	font-family: "ff-tisa-web-pro", Georgia, serif;
+  color: #333;
+  margin-top: 40px;
+  margin-bottom: 80px;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+.main {
+  padding-left: 20px;
+  padding-right: 20px;
+  max-width: 650px;
+  margin-right: auto;
+  margin-left: auto;
+}
