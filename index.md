@@ -17,6 +17,7 @@ title: Kevin's Library
 * Sex Criminals – Matt Fraction, Chip Zdarsky
 * Mr. Penumbra's 24-Hour Bookstore – Robin Sloan
 * Creativity, Inc. – Ed Catmull, Amy Wallace
+* The Gifts of Imperfection – Brené Brown
 
 ## 2013
 
