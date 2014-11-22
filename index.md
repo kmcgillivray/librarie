@@ -19,6 +19,7 @@ title: Kevin's Library
 * Creativity, Inc. – Ed Catmull, Amy Wallace
 * The Gifts of Imperfection – Brené Brown
 * Mockingjay – Suzanne Collins
+* The Life-Changing Magic of Tidying – Marie Kondo
 
 ## 2013
 
