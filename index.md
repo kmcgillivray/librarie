@@ -20,6 +20,7 @@ title: Kevin's Library
 * The Gifts of Imperfection – Brené Brown
 * Mockingjay – Suzanne Collins
 * The Life-Changing Magic of Tidying – Marie Kondo
+* Ready Player One – Ernest Cline
 
 ## 2013
 
@@ -36,6 +37,6 @@ title: Kevin's Library
 * Steal Like an Artist – Austin Kleon
 * Catching Fire – Suzanne Collins
 * Never Let Me Go – Kazuo Ishiguro
-* Tao Te Ching - Lao Tzu
+* Tao Te Ching – Lao Tzu
 * Drawn In – Julia Rothman
-* The Hobbit - J. R. R. Tolkein
+* The Hobbit – J. R. R. Tolkein
