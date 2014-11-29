@@ -21,6 +21,7 @@ title: Kevin's Library
 * Mockingjay – Suzanne Collins
 * The Life-Changing Magic of Tidying – Marie Kondo
 * Ready Player One – Ernest Cline
+* Show Your Work – Austin Kleon
 
 ## 2013
 
