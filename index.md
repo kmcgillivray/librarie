@@ -6,6 +6,7 @@ title: Kevin's Library
 ## 2015
 
 * Nausicaä of the Valley of the Wind – Hayao Miyazaki
+* The Remains of the Day – Kazuo Ishiguro
 
 ## 2014
 
