@@ -7,6 +7,7 @@ title: Kevin's Library
 
 * Nausicaä of the Valley of the Wind – Hayao Miyazaki
 * The Remains of the Day – Kazuo Ishiguro
+* Saga, Vol. 1 and Vol. 2 – Brian K. Vaughan and Fiona Staples
 
 ## 2014
 
