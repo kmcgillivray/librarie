@@ -10,6 +10,7 @@ title: Kevin's Library
 * Saga, Vol. 1-Vol. 4 – Brian K. Vaughan and Fiona Staples
 * Modern Tea – Lisa Boalt Richardson, Jenifer Altman
 * How We Got to Now – Steven Johnson
+* The Book of Tea – Kakuzo Okakura
 
 ## 2014
 
