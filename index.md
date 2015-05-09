@@ -11,6 +11,7 @@ title: Kevin's Library
 * Modern Tea – Lisa Boalt Richardson, Jenifer Altman
 * How We Got to Now – Steven Johnson
 * The Book of Tea – Kakuzo Okakura
+* Japan Design: The Four Seasons in Design – Tanaka Ikko and Koike Kazuko
 
 ## 2014
 
