@@ -12,6 +12,8 @@ title: Kevin's Library
 * How We Got to Now – Steven Johnson
 * The Book of Tea – Kakuzo Okakura
 * Japan Design: The Four Seasons in Design – Tanaka Ikko and Koike Kazuko
+* Buddhism Plain and Simple – Steve Hagen
+* Don't Make Me Think – Steve Krug
 
 ## 2014
 
