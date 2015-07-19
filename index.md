@@ -15,6 +15,7 @@ title: Kevin's Library
 * Buddhism Plain and Simple – Steve Hagen
 * Don't Make Me Think – Steve Krug
 * What is Code? – Paul Ford
+* The Buried Giant – Kazuo Ishiguro
 
 ## 2014
 
