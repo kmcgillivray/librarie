@@ -8,6 +8,7 @@ title: Favorites
 ## Articles
 
 * [Let's Fly](https://medium.com/message/lets-fly-d566ecd35678) – Craig Mod
+* Old Masters – Lewis H. Lapham
 
 ## Podcasts
 
