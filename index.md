@@ -16,6 +16,7 @@ title: Kevin's Library
 * Don't Make Me Think – Steve Krug
 * What is Code? – Paul Ford
 * The Buried Giant – Kazuo Ishiguro
+* The Innovators – Walter Isaacson
 
 ## 2014
 
