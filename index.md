@@ -17,8 +17,9 @@ title: Kevin's Library
 * What is Code? – Paul Ford
 * The Buried Giant – Kazuo Ishiguro
 * The Innovators – Walter Isaacson
-* Harry Potter and the Sorcerer's Stone – J.K. Rowling
+* Harry Potter and the Sorcerer's Stone – J. K. Rowling
 * Neverwhere – Neil Gaiman
+* Harry Potter and the Chamber of Secrets – J. K. Rowling
 
 ## 2014
 
