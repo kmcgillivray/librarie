@@ -16,6 +16,7 @@ title: Music
 * Christine and the Queens – Chaleur Humaine
 * Crystal Fighters – Star of Love
 * Ed Sheeran – x
+* HONNE – Coastal Love
 * Leon Bridges – Coming Home
 * Letts – Emeralds
 * Mumford and Sons – Wilder Mind
