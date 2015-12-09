@@ -5,10 +5,12 @@ title: Movies & TV
 
 ## 2015
 
-* Chef's Table
-* The Legend of Korra
-* Princess Mononoke
-* The Kingdom of Dreams and Madness
-* The Wind Rises
-* The Imitation Game
 * Broadchurch
+* Chef's Table
+* Daredevil
+* House of Cards
+* Princess Mononoke
+* The Imitation Game
+* The Kingdom of Dreams and Madness
+* The Legend of Korra
+* The Wind Rises
