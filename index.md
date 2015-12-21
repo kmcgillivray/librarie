@@ -20,6 +20,7 @@ title: Kevin's Library
 * Harry Potter and the Sorcerer's Stone – J. K. Rowling
 * Neverwhere – Neil Gaiman
 * Harry Potter and the Chamber of Secrets – J. K. Rowling
+* The Metamorphosis – Franz Kafka
 
 ## 2014
 
