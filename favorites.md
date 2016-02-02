@@ -25,3 +25,4 @@ title: Favorites
 ## Games
 
 * Bioshock
+* Alto's Adventure
