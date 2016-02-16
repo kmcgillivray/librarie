@@ -3,6 +3,11 @@ layout: default
 title: Videos
 ---
 
+## 2016
+
+* [1 > 0](https://www.youtube.com/watch?v=4fsYWXrGGcE) – Gary Vaynerchuk
+* [Steve Jobs 1995 Interview](https://www.youtube.com/watch?v=M6Oxl5dAnR0)
+
 ## 2015
 
 * Last Lecture – Fr. James Neilson

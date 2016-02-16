@@ -7,6 +7,7 @@ title: Kevin's Library
 
 * The Martian – Andy Weir
 * Seconds – Bryan Lee O'Malley
+* Kafka on the Shore – Haruki Murakami
 
 ## 2015
 
@@ -26,6 +27,7 @@ title: Kevin's Library
 * Neverwhere – Neil Gaiman
 * Harry Potter and the Chamber of Secrets – J. K. Rowling
 * The Metamorphosis – Franz Kafka
+* Designing Design – Kenya Hara
 
 ## 2014
 
