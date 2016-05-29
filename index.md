@@ -8,6 +8,8 @@ title: Kevin's Library
 * The Martian – Andy Weir
 * Seconds – Bryan Lee O'Malley
 * Kafka on the Shore – Haruki Murakami
+* Living Buddha, Living Christ – Thich Nhat Hanh
+* The Personal MBA – Josh Kaufman
 
 ## 2015
 
