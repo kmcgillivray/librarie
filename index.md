@@ -10,6 +10,14 @@ title: Kevin's Library
 * Kafka on the Shore – Haruki Murakami
 * Living Buddha, Living Christ – Thich Nhat Hanh
 * The Personal MBA – Josh Kaufman
+* Tea: History, Terroirs, Varieties – Kevin Gascoyne, Francois Marchand, Jasmin Desharnais
+* Chado: The Japanese Way of Tea – Soshitsu Sen
+* Feminism is for Everbody – bell hooks
+* Twelve Recipes – Cal Peternell
+* Reasons to Stay Alive – Matt Haig
+* Hamilton: The Revolution – Lin‑Manuel Miranda, Jeremy McCarter
+* Let Your Life Speak – Parker Palmer
+* Harry Potter and the Cursed Child – J. K. Rowling
 
 ## 2015
 
