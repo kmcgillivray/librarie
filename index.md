@@ -18,6 +18,8 @@ title: Kevin's Library
 * Hamilton: The Revolution – Lin‑Manuel Miranda, Jeremy McCarter
 * Let Your Life Speak – Parker Palmer
 * Harry Potter and the Cursed Child – J. K. Rowling
+* Between the World and Me – Ta-Nehisi Coates
+* Nocturnes – Kazuo Ishiguro
 
 ## 2015
 
