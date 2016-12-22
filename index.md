@@ -20,6 +20,7 @@ title: Kevin's Library
 * Harry Potter and the Cursed Child – J. K. Rowling
 * Between the World and Me – Ta-Nehisi Coates
 * Nocturnes – Kazuo Ishiguro
+* Resilient Web Design – Jeremy Keith
 
 ## 2015
 
