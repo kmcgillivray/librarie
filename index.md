@@ -21,6 +21,7 @@ title: Kevin's Library
 * Between the World and Me – Ta-Nehisi Coates
 * Nocturnes – Kazuo Ishiguro
 * Resilient Web Design – Jeremy Keith
+* The 15 Commitments of Conscious Leadership – Jim Dethmer, Diana Chapman, and Kaley Warner Klemp
 
 ## 2015
 
